@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">SunRise</string>
+
+    <string name="tv_uername">Email</string>
+    <string name="tv_pwd">Password</string>
+    <string name="btn_login">Login</string>
+
+    <string name="gethelp">Get help with signing in</string>
+    <string name="signup">Sign up</string>
+
+    <string name="regname">Name</string>
+    <string name="regnic">NIC</string>
+    <string name="regadd">Address</string>
+
+    <string name="regemail">Email</string>
+    <string name="regcontact">Contact</string>
+    <string name="regusername">Username</string>
+    <string name="regpwd">Password</string>
+    <string name="regcpwd">Comform Password</string>
+    <string name="regsubmit">Create Account</string>
+
+    <string name="verifylabel">please check your email and enter the activation code to proceed</string>
+
+    <string name="btnverify">Next</string>
+
+    <string name="keycode">Key code</string>
+
+    <string name="ratebutton">Submit</string>
+
+    <string name="txtrate">Describe your experience</string>
+
+    <string name="resetpassword">Please enter your Email address to verify your account.</string>
+
+    <string name="ename">Name</string>
+    <string name="enic">Nic</string>
+    <string name="eemail">Email</string>
+    <string name="econtact">Contact</string>
+    <string name="eaddress">Address</string>
+    <string name="overify">Verfy</string>
+
+    <string name="overifydate">Verify a Data</string>
+    <string name="oorderdate">Order Date</string>
+    <string name="oqty">Quantity</string>
+    <string name="odilivary">Deliverable</string>
+    <string name="odilivaryto">Description</string>
+
+    <string name="okj">Quantity of Kg</string>
+
+    <string name="onext">Next</string>
+
+
+</resources>
